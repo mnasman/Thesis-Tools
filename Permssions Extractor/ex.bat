@@ -1,0 +1,1 @@
+"E:\Android\android-sdk\build-tools\27.0.3\aapt.exe"  d permissions %1 > %2
